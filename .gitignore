@@ -1,0 +1,14 @@
+# Data files (large datasets don't go to GitHub)
+data/*.csv
+data/*.xlsx
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+.kaggle/
