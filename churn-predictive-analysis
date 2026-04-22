@@ -28,48 +28,21 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": 1,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
         "id": "GHT1_dlk5bVM",
-        "outputId": "d16dec6b-88de-40b9-de4e-005d64be965c"
+        "outputId": "1659ac65-4b3b-4c60-bda2-dca3ba1af18d"
       },
       "outputs": [
         {
           "output_type": "stream",
           "name": "stdout",
           "text": [
-            "Downloading to /root/.cache/kagglehub/datasets/mashlyn/online-retail-ii-uci/3.archive...\n"
-          ]
-        },
-        {
-          "output_type": "stream",
-          "name": "stderr",
-          "text": [
-            "100%|██████████| 14.5M/14.5M [00:00<00:00, 86.1MB/s]"
-          ]
-        },
-        {
-          "output_type": "stream",
-          "name": "stdout",
-          "text": [
-            "Extracting files...\n"
-          ]
-        },
-        {
-          "output_type": "stream",
-          "name": "stderr",
-          "text": [
-            "\n"
-          ]
-        },
-        {
-          "output_type": "stream",
-          "name": "stdout",
-          "text": [
-            "Path to dataset files: /root/.cache/kagglehub/datasets/mashlyn/online-retail-ii-uci/versions/3\n"
+            "Using Colab cache for faster access to the 'online-retail-ii-uci' dataset.\n",
+            "Path to dataset files: /kaggle/input/online-retail-ii-uci\n"
           ]
         }
       ],
@@ -105,7 +78,7 @@
       "metadata": {
         "id": "s9iRGPtS5vHt"
       },
-      "execution_count": null,
+      "execution_count": 2,
       "outputs": []
     },
     {
@@ -122,7 +95,7 @@
       "metadata": {
         "id": "PsdjyMRP5o6e"
       },
-      "execution_count": null,
+      "execution_count": 3,
       "outputs": []
     },
     {
@@ -157,9 +130,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "7Er6p75c6mi-",
-        "outputId": "55f38310-2e00-4c3e-aecc-f6f36d693acb"
+        "outputId": "990d9ab9-2071-467f-9817-a5f1bf0c7429"
       },
-      "execution_count": null,
+      "execution_count": 4,
       "outputs": [
         {
           "output_type": "stream",
@@ -212,9 +185,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "jR4qPGc96tph",
-        "outputId": "2ca9267f-32a3-4789-b199-bad272a17d8d"
+        "outputId": "f98e5314-d403-4934-de0a-41e154f0e4b9"
       },
-      "execution_count": null,
+      "execution_count": 5,
       "outputs": [
         {
           "output_type": "stream",
@@ -264,7 +237,7 @@
       "metadata": {
         "id": "_HllJFIq6yHf"
       },
-      "execution_count": null,
+      "execution_count": 6,
       "outputs": []
     },
     {
@@ -283,9 +256,9 @@
           "height": 550
         },
         "id": "X4GDSXxb-14m",
-        "outputId": "0a31ee7e-5ab5-411e-cc7d-45a829270b77"
+        "outputId": "01194d36-9874-4275-8341-2f579ae5f43b"
       },
-      "execution_count": null,
+      "execution_count": 7,
       "outputs": [
         {
           "output_type": "display_data",
@@ -320,9 +293,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "qKp5xrRp63sb",
-        "outputId": "7add71be-b619-433a-927c-dac61174bcf9"
+        "outputId": "0ba1a676-399d-4b6d-9284-408f02832ea3"
       },
-      "execution_count": null,
+      "execution_count": 8,
       "outputs": [
         {
           "output_type": "stream",
@@ -360,9 +333,9 @@
           "height": 573
         },
         "id": "oSEU8ig77sDv",
-        "outputId": "50fd7ec5-1427-496d-e2ec-295340e87975"
+        "outputId": "cc11fbeb-cfe4-4cbc-be9c-2030432e2eeb"
       },
-      "execution_count": null,
+      "execution_count": 9,
       "outputs": [
         {
           "output_type": "display_data",
@@ -403,9 +376,9 @@
           "height": 573
         },
         "id": "-dm8u4_A8F-z",
-        "outputId": "ec93e299-0eff-42c7-cd00-144912422f48"
+        "outputId": "0a4f0553-9395-40c3-dd7a-1a71e9532740"
       },
-      "execution_count": null,
+      "execution_count": 10,
       "outputs": [
         {
           "output_type": "display_data",
@@ -463,9 +436,9 @@
           "height": 573
         },
         "id": "9xa3cvL38o9A",
-        "outputId": "48f182b0-c353-4e77-f7df-8ba3d1608b3b"
+        "outputId": "701efe61-d898-4d4f-c56b-ff309bfed9fe"
       },
-      "execution_count": null,
+      "execution_count": 11,
       "outputs": [
         {
           "output_type": "display_data",
@@ -514,9 +487,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "7waCyKlQKpbb",
-        "outputId": "f7a11a77-f803-4bd7-8bf7-3c74c11d756f"
+        "outputId": "f350ea56-f1bc-4be9-985c-1fdfc1f054e2"
       },
-      "execution_count": null,
+      "execution_count": 12,
       "outputs": [
         {
           "output_type": "stream",
