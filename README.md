@@ -105,10 +105,12 @@ This model enables the business to:
 ## 📁 Project Structure
 
 ```
-churn-analysis/
+churn-predictive-analysis/
 │
-├── churn_analysis.ipynb     # Main notebook (EDA → Model → Segmentation)
-├── ecommerce_churn_final.csv  # Output: scored customer base
+├── notebooks/
+│   └── predictive_churn_analysis_e_commerce.ipynb
+├── .gitignore
+├── requirements.txt
 └── README.md
 ```
 
