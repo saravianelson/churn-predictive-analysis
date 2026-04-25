@@ -124,6 +124,11 @@ churn-predictive-analysis/
 4. The notebook auto-downloads the dataset from Kaggle via `kagglehub`
 
 ---
+## 🗂️ Project Board
+Follow the progress of this and other portfolio projects:
+[View Kanban Board](https://github.com/users/saravianelson/projects/2)
+
+---
 
 ## 📬 Contact
 
