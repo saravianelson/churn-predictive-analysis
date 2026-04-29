@@ -120,7 +120,7 @@ churn-predictive-analysis/
 
 1. Clone this repo
 2. Install dependencies: `pip install kagglehub pandas scikit-learn matplotlib seaborn`
-3. Run `churn_analysis.ipynb` end-to-end in Google Colab or Jupyter
+3. Run `predictive_churn_analysis_e_commerce.ipynb` end-to-end in Google Colab or Jupyter
 4. The notebook auto-downloads the dataset from Kaggle via `kagglehub`
 
 ---
